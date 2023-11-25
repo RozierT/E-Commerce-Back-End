@@ -2,8 +2,10 @@
 A backend for an e-commerce site
 
 ## Description
+This is a backend application for an e-commerce site. It handles retrieving, storing, and manipulating product data.
 
 ## Instalation
+
 
 ## Usage
 
