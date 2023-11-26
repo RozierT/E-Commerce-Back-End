@@ -2,12 +2,14 @@
 A backend for an e-commerce site
 
 ## Description
-This is a backend application for an e-commerce site. It handles retrieving, storing, and manipulating product data.
+This is a backend application for an e-commerce site. It handles retrieving, storing, and manipulating product data. You can use this to add new products or product categories, edit exiisting products, and remove products that are no longer available.
 
 ## Instalation
-
+To install this application you may visit my github repository at https://github.com/RozierT/E-Commerce-Back-End and copy the SSH key into the folder of your choice. Remember to establish a connection to mySQL and run the schema prior to seeding/starting the application. 
 
 ## Usage
+Below is a screen recording showing how this backend works
+https://drive.google.com/file/d/1D4tGHiBMl8-8efJUuw-W8qRbc5RUbSVk/view
 
 ## User Story
 
